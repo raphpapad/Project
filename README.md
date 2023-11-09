@@ -1,4 +1,4 @@
 # Project
 
 << Java >> <br>
-1. In a project (like a game), one character fights another. More info inside the code.
+Project1: Is like a game, one character fights another. More info inside the code.<br>
