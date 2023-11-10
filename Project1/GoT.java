@@ -42,7 +42,6 @@ Tyrion Lannister healthPwr: -4
 The GreateHouse of Stark, has lord Eddard Stark. Their sigil is 'A grey direwolf on a white field' and their words are 'Winter Is Coming'.
 Won the Iron Throne!
 */
-*/
 public class GoT {
 	public static int getRandomVal(int min, int max) {
 		Random rand = new Random();
