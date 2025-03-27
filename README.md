@@ -17,4 +17,4 @@ ms_compare -> strcmp<br>
 ms_ncompare -> strncmp<br>
 ms_search -> strstr<br>
 
-**Symbol Table:** Each instance of the SymTable ADT will be a symbol table. You must design the SymTable ADT to be “generic,” meaning that the values ​​are void pointers, and therefore can point to data of any type. You will create two implementations of the SymTable ADT: one implementation that uses a linked list and one that uses a hash table. The SymTable ADT you create will be useful later..<br>
+**SymbolTable:** Each instance of the SymTable ADT will be a symbol table. You must design the SymTable ADT to be “generic,” meaning that the values ​​are void pointers, and therefore can point to data of any type. You will create two implementations of the SymTable ADT: one implementation that uses a linked list and one that uses a hash table. The SymTable ADT you create will be useful later..<br>
