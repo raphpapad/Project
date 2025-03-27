@@ -7,7 +7,7 @@
 **Score4:** The board game Connect 4.<br>
 
 << C >><br>
-**ModuleString:** Create the module “MyString”, which will contain implementations of the most commonly used string functions. Specifically, the MyString module will contain the following functions, which will behave like the corresponding functions in C:
+**ModuleString:** Create the module “MyString”, which will contain implementations of the most commonly used string functions. Specifically, the MyString module will contain the following functions, which will behave like the corresponding functions in C:<br>
 ms_length -> strlen<br>
 ms_copy -> strcpy<br>
 ms_ncopy -> strncpy<br>
